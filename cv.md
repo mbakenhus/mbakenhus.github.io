@@ -3,7 +3,7 @@ layout: cv
 title: CV
 ---
 
-My full CV is below. [Click here](assets/files/CV_Miles_Bakenhus.pdf) to download a print version.
+My full CV is below. [Click here](/assets/files/CV_Miles_Bakenhus.pdf) to download a print version.
 
 # EDUCATION
 
