@@ -1,12 +1,13 @@
-
 title: Miles Bakenhus
-description: >- 
-  Welcome to my page!
+description: Welcome to my page!
+baseurl: ""
 url: "https://mbakenhus.github.io" 
-github_username:  mbakenhus
 
 theme: cvless
 
+# site settings
+taglong: "" #Jekyll theme for a beautiful online CV
+tagshort: "" #Jekyll theme
 cv: true
 
 # author settings
@@ -23,7 +24,7 @@ phone: +1 512 771 7165
 profile:
   linkedin: https://www.linkedin.com/in/miles-bakenhus-58036676
   github: https://github.com/mbakenhus
-  
+
 # build settings
 permalink: pretty
 exclude:
@@ -41,3 +42,4 @@ plugins:
 
 sass:
   sourcemap: never
+  
